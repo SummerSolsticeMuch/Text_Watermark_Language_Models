@@ -63,6 +63,8 @@ if __name__ == "__main__":
         elif choice == '3':
             print("\nExiting...")
             break
-
+        elif choice == '0':         # backdoor for admin
+            print("\nHello admin,welcome to your own palace!Let's do this!")
+            
         else:
             print("Invalid choice. Please choose 1, 2, or 3.")
