@@ -22,6 +22,7 @@ We provide two demonstrations, `demo_CLI.py` and `demo_gradio.py`, which corresp
 
 ## Demo Usage
 > Click on the GIFs to enlarge them for a better experience.
+> This project provide both Graphical User Interface and Command Line Interface,which is user-friendly.
 ### Graphical User Interface
 ```sh
 $ python demo_gradio.py --language English --tau_word 0.8 --lamda 0.83
